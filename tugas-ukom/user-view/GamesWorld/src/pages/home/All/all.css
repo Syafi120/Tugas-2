@@ -1,0 +1,30 @@
+.body{
+    margin-top: 60px;
+}
+
+.foto{
+    width: 500px;
+}
+
+.cover{
+    color: #4e73df;
+    font-size: 20px;
+}
+
+.new{
+    font-size: 14px;
+}
+
+.kofer{
+    width: 150px;
+    height: 90px;
+}
+
+.teks{
+    font-size: 15px;
+}
+
+.descr{
+    font-size: 12px;
+    margin-top: -14px;
+}
